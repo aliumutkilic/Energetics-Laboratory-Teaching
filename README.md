@@ -3,7 +3,7 @@
 Repository for the Energetics class. All experiments were designed by Dr. Anilkumar, performed analyzed by me as the TA, and later performed with the students. 
 
 ## Table of Contents
-- [Wind Tunnel](Wind Tunnel/)
+- [Wind Tunnel](Wind%20Tunnel/)
 - [Heat Exchanger](#heat-exchanger)
 - [Wind Turbine](#wind-turbine)
   
