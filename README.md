@@ -36,10 +36,9 @@ This folder explores various factors that influence the performance of wind turb
 
 ## Usage
 
-Each folder contains datasets in excel and data visualisation scripts in MATLAB.
+Each folder contains datasets in MS Excel and data visualisation scripts in MATLAB.
 
-## License
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+
 
 
 
