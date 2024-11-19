@@ -4,8 +4,8 @@ Repository for the Energetics class. All experiments were designed by Dr. Anilku
 
 ## Table of Contents
 - [Wind Tunnel](Wind%20Tunnel/)
-- [Heat Exchanger](#heat-exchanger)
-- [Wind Turbine](#wind-turbine)
+- [Heat Exchanger](Heat%20Exchanger/)
+- [Wind Turbine](Wind%20Turbine/)
   
 ## Folder Overview
 
